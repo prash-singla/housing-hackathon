@@ -1,1 +1,1 @@
-var appHousingHackathon = angular.module('housingHackathon', ['findLocation']);
+var appHousingHackathon = angular.module('housingHackathon', ['ngRoute', 'findLocation']);
