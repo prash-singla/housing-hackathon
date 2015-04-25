@@ -1,0 +1,1 @@
+var appHousingHackathon = angular.module('housingHackathon', ['findLocation']);
