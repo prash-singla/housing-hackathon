@@ -1,0 +1,1 @@
+var appFindLocation = angular.module('findLocation',[]);
